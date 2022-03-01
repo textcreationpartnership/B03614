@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of James Haviland, of the Isle of Purbeck, in the county of Dorset, presented to the view of every impartial reader; but more particularly to the inhabitants of the isle and county aforesaid.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03614</idno>
+            <idno type="STC">Wing H1162A</idno>
+            <idno type="STC">ESTC R177915</idno>
+            <idno type="EEBO-CITATION">47012470</idno>
+            <idno type="OCLC">ocm 47012470</idno>
+            <idno type="VID">174436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174436)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2688:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of James Haviland, of the Isle of Purbeck, in the county of Dorset, presented to the view of every impartial reader; but more particularly to the inhabitants of the isle and county aforesaid.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Sowle ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: "Inventory of goods ... seized, carried away, and sold."</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Haviland, James fl. 1700.</term>
+               <term>Church of England --  Tithes --  17th century.</term>
+               <term>Quakers --  Persecutions --  17th century.</term>
+               <term>Society of Friends --  Doctrines --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174436:1" rendition="simple:additions"/>
+            <head>THE CASE OF <hi>James Haviland,</hi> Of the Iſle of <hi>Purbeck,</hi> in the County of <hi>Dorſert,</hi> pre<g ref="char:EOLhyphen"/>ſented to the view of every Impartial Reader; But more particularly to the Inhabitants of the Iſle and County aforeſaid.</head>
+            <p>
+               <hi>GEORGE KING,</hi> Rector of <hi>Langton-Matravers;</hi> and <hi>James Parkins,</hi> Rector of <hi>Corf-Caſtle</hi> in the Iſle and County aforeſaid, who call themſelves Miniſters of the Peaceable Goſpel of Jeſus Chriſt; have contrary to the terms of that Goſpel and contrary to the Practice of all the Apoſtolick Miniſters recorded in the New-Teſta<g ref="char:EOLhyphen"/>ment, proceeded againſt the ſaid <hi>James Haviland,</hi> for the Claims which they ſeverally had upon him for Tythes.</p>
+            <p>That their Practice is contrary to the terms of the Goſpel, will beſt appear by ſetting down the Terms of it as they are recorded by the Evangeliſt, <hi>Luk.</hi> 2.14. <hi>Glory to God in the Higheſt, and on Earth Peace, Good-Will to Men.</hi> Theſe two <hi>Rectors</hi> pretend to be Miniſters of this Goſpel, and do yet compel Maintenance, and from ſuch who Contientiouſly refuſe to pay them, they have in a cruel manner endeavoured their Ruin, as in the preſent Inſtance of <hi>James Haviland,</hi> whoſe Houſhold-Goods, Linnen and Wearing Apparel they have ſeized to many times the value of the Tythe which they demanded; yet not con<g ref="char:EOLhyphen"/>tent with that; they did ſeize and carry away two <hi>Bibles,</hi> which tho' they call it the <hi>Only Rule of Faith</hi> and <hi>Manners,</hi> they did deprive the Man of that, and expoſe the <hi>Rule</hi> it ſelf to be Sold to Feed their Bellies.</p>
+            <p>But this their Doings as they are not agreeable to the Nature of the Goſpel, ſo neither are they agreeable to the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Apoſtles and Primitive <hi>Chriſtians,</hi> who did Preach Freely the Goſpel of <hi>Jeſus Chriſt,</hi> according to our Saviour's command to his Diſciples, <hi>Matth.</hi> 10.8. <hi>Freely ye have received, freely give.</hi> And the Apoſtle teſtified he did <hi>keep himſelf from being burdenſome, by Labour, working with his Hands,</hi> 2 Cor. 11.9. 1 Cor. 4.12. Tho' its not to be expected that theſe Rectors will be inclin'd to follow the Apoſtles Example, becauſe they cannot in truth ſay they became Miniſters in the ſame manner which he did, when he ſays, <hi>I was made a Miniſter according to the Gift of the Grace of God, given unto me by the effectual working of his Power,</hi> Epheſ. 3.7. Tho' after th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> manner it is that the Miniſters of <hi>Chriſt</hi> now do, and ever did receive their Miniſtry.</p>
+            <p>Surely it behoveth the People to conſider how diſagreeable theſe two <hi>Rectors</hi> are in their Miniſtry and Practice to the true Miniſters of <hi>Chriſt,</hi> who never did as theſe do, Vio<g ref="char:EOLhyphen"/>lently take away the Goods of thoſe they do not Preach to. In this their Practice they are condemned even by <hi>Auſtin</hi> the Monk, and thoſe that came with him, according to the Teſtimony of <hi>Bede,</hi> the Church Hiſtorian, who ſaith, lib. 1. cap. 25. <hi>At ubi ſibi datam,</hi> &amp;c. <q>They entred, where Manſions were given them, and began to imitate the Apoſtolick Life of the <hi>Primitive Church,</hi> in continual Prayers, Watchings, and Faſtings, Preaching the Word of Life to whom they could, rejecting, as Strangers, the things of this World, receiving from THOSE whom they taught, thoſe things ONLY which were Neceſſary to ſu<g ref="char:EOLhyphen"/>ſtain them; and in all things lived according to the Doctrine they taught, ready to Suffer, or alſo to Dye, in teſtimony to the Truth which they Preached.</q>
+            </p>
+            <p>This was about the Year 600, and tho' there were many great Corruptions entred the Church at that time, yet in this particular of the Maintenance of Miniſters, ſhe wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo happy as <hi>Bed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſays, as to imitate the Apoſtolick Life of the Primitive Church.</p>
+            <p>It is not to be doubted, but that the <hi>Primitive Chriſtians</hi> in the Apoſtolick Times, did when there was occaſion, very willingly adminiſter to the neceſſity of the Miniſtry: And it cannot fail that any Man who is called to be a Miniſter of <hi>Jeſus Chriſt,</hi> as <hi>Paul</hi> was, but thoſe to whom he preacheth, will chearfully ſupply his Wants. But not to urge th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſingle Inſtance only from <hi>Bede,</hi> it may be ſhewn they were ſo far from making any pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to their Prieſts who did not hear them, that they would not receive Alms from any wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were not in their Communion: The Inſtance is this, there was a Synod celebrated in <hi>Ireland</hi> about the Years 450, or 456, by <hi>Patritius, Iſſervin, Auxilius,</hi> and others, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Canons of which Synod, as given by <hi>Henry Spellman,</hi> the 12. &amp; 13. are,
+<list>
+                  <item>12. <hi>Quicunque Chriſtianus excommunicatus fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rit nec ejus cleemeſyna recipiatur.</hi>
+                  </item>
+                  <item>13. <hi>Eleemoſynam à Gentibus offerendam in Eccleſiam recipi non licet.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Spellman. Concilia, <hi>&amp;c.</hi> Orbis Britannici Tom. primus. <hi>p.</hi> 52.</p>
+            <pb n="2" facs="tcp:174436:2"/>
+            <p>But ſince there is at this Day ſuch very great alteration, That Theſe <hi>Rectors</hi> who pre<g ref="char:EOLhyphen"/>tend to be <hi>Chriſt's</hi> Miniſters, do like thoſe the Prophet mentions, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 3.5. <hi>He that putteth not into their Mouths, they even pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pare War against him.</hi>
+            </p>
+            <p>They might <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et, one would have thought, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> within ſome Bounds of M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deſty: For if their deſign had only and <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gotten from <hi>James Haviland,</hi> what was their pretended d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for Preaching, the <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hath made proviſion, that it may be very ſpeedily, and with much leſs charge obtain'd. But throwing aſide all Modeſty, and common Humanity, theſe <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> have neglected that way of procedure, that they might of ſet purpoſe and deſign, ruin the Man and his Family; of which intent they have given full proof, as may be ſeen by the under-written Inventory of Goods which they ſeized, carried away, and ſold, amounting by eſtima<g ref="char:EOLhyphen"/>tion to 50 <hi>l.</hi> Which is a Sum many-fold the value of the Tythe demanded.</p>
+            <p>
+               <hi>James Haviland</hi> of <hi>Corf-Caſtle,</hi> in the Iſle of <hi>Purbeck,</hi> and County of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orſet,</hi> was pro<g ref="char:EOLhyphen"/>ſecuted upon the Statute of Treble Damages, by <hi>George King,</hi> Rector of the Pariſh of <hi>Langton-Matravers;</hi> and alſo by <hi>James Parkins,</hi> Rector of <hi>Corſ Caſtle</hi> aforeſaid, in a Suit of Tythes, and the Jury finding for each of them to the value of Forty Shillings, for which Judgment and Execution is awarded each of them Seventeen Pounds. And on the third, fourth and fifth Days of the ſecond Month, 1700. <hi>Walter Frampt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, John Riges, Gervis Croſs,</hi> and Prieſt <hi>Parkins</hi>'s Servant <hi>Lawrence Simonds,</hi> took and carried away from him the ſaid <hi>James Haviland,</hi> the particular Goods following, by eſtimation amounting to the value aforeſaid.</p>
+            <list>
+               <item>Firſt, Two BIBLES.</item>
+               <item>Twenty one Yards and half of Blue Linne, or Dowleſs.</item>
+               <item>Thirteen Yards of Broad Dowleſs.</item>
+               <item>Thirty One Yards of Narrow Dowleſs.</item>
+               <item>Two Feather-Beds.</item>
+               <item>Four Feather-Bolſters, one Flock Bolſter, and one Duſt-Bolſter.</item>
+               <item>Four Feather-Pillows.</item>
+               <item>Two Ruggs.</item>
+               <item>Six Sheets.</item>
+               <item>Nine Bed-Blankets.</item>
+               <item>Three Bed-Coverlets.</item>
+               <item>Three Canvas Bolſter-Clothes.</item>
+               <item>Two Table-Cloths.</item>
+               <item>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oats; two great or top Coats; and two Houſe body Coats; four pair of Breeches.</item>
+               <item>One Braſs Warming-pan.</item>
+               <item>Two Pewter Platters.</item>
+               <item>One pair of Boots.</item>
+               <item>Two great Braſs Kettles, and one ſmall Braſs Kettle.</item>
+               <item>One Bell-Mettle Pot.</item>
+               <item>One Braſs Pot.</item>
+               <item>One great new Towel.</item>
+               <item>One great new Trendle.</item>
+               <item>Two new Half Hogſheads.</item>
+               <item>Eight Joint-Stools.</item>
+               <item>Six Leather-Chairs.</item>
+               <item>One large Table-Board with its Frame.</item>
+               <item>One Oak Table-Board of eight Foot long without a Frame: One other long Table-Board with its Frame: And one Round Table-Board with its Frame.</item>
+               <item>One Poudering-Tub.</item>
+               <item>Five Deal-Boards.</item>
+               <item>One pair of Tongs, and one Fire-pan.</item>
+               <item>Four Beer-Veſſels.</item>
+               <item>One Steel-Quern, or Hand-Mill, for to grind Mault.</item>
+               <item>Two Winnowing-Sheets.</item>
+               <item>Four Sacks, and two Two-Buſhel Bags.</item>
+               <item>Three Pecks and half of Wheat.</item>
+               <item>One Peck and half of Beans.</item>
+               <item>Four Sives to winnow Corn withal.</item>
+               <item>Two Ruſh-bottom Chairs.</item>
+               <item>One Ax.</item>
+               <item>Thirteen pound of Bacon.</item>
+               <item>One <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upboard.</item>
+               <item>One Coffer.</item>
+               <item>One Pillion, and one Pannel, with Foot<g ref="char:EOLhyphen"/>ſtool and Girts.</item>
+               <item>One Brewing-Fat, or Vate.</item>
+               <item>One new Strap-Rope.</item>
+               <item>One Box.</item>
+               <item>One great new Oak Preſs or Wardrobe to lay and hang Cloaths in.</item>
+               <item>One ſtanding Bedſtead with the Cord and Mat.</item>
+               <item>One Half-head Bedſtead, with the Cord and Mat.</item>
+               <item>About Four Load of Cleft Wood, and other great Wood.</item>
+               <item>One Pocket-Knife which coſt 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>One Pocket-Handkerchief; and one Hol<g ref="char:EOLhyphen"/>land Cap that was in ſome or one of the Pockets of the Clothes.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Grace-church-ſtreet;</hi> and at the Sign of the <hi>Bible</hi> in <hi>Leadenhall-ſtreet,</hi> by <hi>Leadenhall-Market,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
